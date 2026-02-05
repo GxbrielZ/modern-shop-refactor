@@ -1,6 +1,6 @@
 # Modern Shop - refactored e-commerce store 🚀
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](/public/screenshot.png)
 
 ## 💡 About The Project
 
@@ -63,7 +63,7 @@ Here is a breakdown of the architectural decisions made during the development p
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/GxbrielZ/modern-shop-refactor.git
     ```
 2.  **Install dependencies:**
     ```bash
@@ -75,5 +75,3 @@ Here is a breakdown of the architectural decisions made during the development p
     npm run dev
     ```
 4.  Open `http://localhost:5173` in your browser.
-
----
